@@ -13,4 +13,7 @@
 
   %body{class: page_classes}
     = yield
+    = javascript_include_tag  "../bower_components/jquery/dist/jquery.min.js"
+    = javascript_include_tag  "../bower_components/flexslider/jquery.flexslider-min.js"
+    = javascript_include_tag  "../bower_components/flexloader/dist/jquery.flexloader.min.js"
     = javascript_include_tag  "all"
