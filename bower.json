@@ -1,9 +1,8 @@
 {
-  "name": "portfolio",
-  "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "jquery": "~1.10.2"
+  "name": "foundation-compass-app",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
   }
 }
-
