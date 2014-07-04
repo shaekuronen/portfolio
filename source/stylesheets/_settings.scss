@@ -1146,7 +1146,7 @@ $xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (m
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-// $topbar-bg-color: #333;
+$topbar-bg-color: #111;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
