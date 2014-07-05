@@ -1,0 +1,54 @@
+---
+title: Shae Kuronen
+---
+
+= partial('partials/header')
+
+.row
+  .xsmall-12.small-12.medium-12.large-12.xlarge-9.columns
+
+    .flexslider
+
+      %ul.slides
+        - slides.each do |slide|
+          %li
+            %span{"data-alt" => "Description here...", "data-picture" => ""}
+              %span{"data-original" => "#{slide[:small]}", "data-src" => "/images/global/1x1.gif"}
+              %span{"data-media" => "(max-width: 360px)", "data-original" => "#{slide[:small]}", "data-src" => "/images/global/1x1.gif"}
+              %span{"data-media" => "(min-width: 361px) and (max-width: 540px)", "data-original" => "#{slide[:medium]}", "data-src" => "/images/global/1x1.gif"}
+              %span{"data-media" => "(min-width: 541px) and (max-width: 720px)", "data-original" => "#{slide[:large]}", "data-src" => "/images/global/1x1.gif"}
+              %span{"data-media" => "(min-width: 721px)", "data-original" => "#{slide[:xlarge]}", "data-src" => "/images/global/1x1.gif"}
+              %noscript
+                %img{:alt => "Description here...", :src => "#{slide[:small]}"}
+
+  .xsmall-12.small-12.medium-12.large-12.xlarge-3.columns.panel
+
+    .row
+
+      .xsmall-12.small-12.medium-12.large-4.xlarge-12.columns
+        %dl
+
+          %dt Project
+          %dd= project_title
+
+
+          %dt Client
+          %dd DoubleDown Interactive
+
+          %dt Agency
+          %dd 206inc
+
+          %dt URL
+          %dd
+            %a{href: 'http://www.doubledowninteractive.com/', target: '_blank'} doubledowninteractive.com
+
+      .xsmall-12.small-12.medium-12.large-8.xlarge-12.columns
+        %dl
+
+          %dt Role
+          %dd Lead Developer
+
+          %dt Description
+          %dd Responsible for defining project architecture, implementing technical specifications, building the site, and deploying to the client's hosting platform.
+
+

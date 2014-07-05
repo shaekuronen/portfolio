@@ -5,7 +5,7 @@
 compass_config do |config|
   # Require any additional compass plugins here.
   config.add_import_path "bower_components/foundation/scss"
-  
+
   # Set this to the root of your project when deployed:
   config.http_path = "/"
   config.css_dir = "stylesheets"
@@ -57,6 +57,32 @@ end
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
 
+# [
+#   "doubledown",
+#   "206",
+#   "denizen"
+# ].each do |name|
+
+# data.projects.each do |name|
+
+#   proxy
+#     "/projects/#{name}/index.html",
+#     "/projects/template.html",
+#     :locals => { :person_name => name },
+#     :ignore => true
+
+# end
+
+data.projects.each do |project|
+  proxy "/projects/#{project[:url_title]}/index.html",
+        "/projects/template.html",
+        :locals => {
+          project_title: project['project_title'],
+          slides: project['slides']
+        },
+        :ignore => true
+end
+
 ###
 # Helpers
 ###
@@ -87,6 +113,8 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 activate :livereload
+
+# activate :directory_indexes
 
 # Build-specific configuration
 configure :build do
