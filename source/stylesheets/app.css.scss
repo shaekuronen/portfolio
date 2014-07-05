@@ -11,6 +11,11 @@ header {
    }
 }
 
+.xlarge-9 {
+   @media #{$xlarge-up} {
+      width: 75%;
+   }
+}
 .xlarge-3 {
    @media #{$xlarge-up} {
       width: 25%;
