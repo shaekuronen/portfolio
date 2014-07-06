@@ -57,28 +57,18 @@ end
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
 
-# [
-#   "doubledown",
-#   "206",
-#   "denizen"
-# ].each do |name|
-
-# data.projects.each do |name|
-
-#   proxy
-#     "/projects/#{name}/index.html",
-#     "/projects/template.html",
-#     :locals => { :person_name => name },
-#     :ignore => true
-
-# end
-
 data.projects.each do |project|
   proxy "/projects/#{project[:url_title]}/index.html",
         "/projects/template.html",
         :locals => {
+          slides: project['slides'],
           project_title: project['project_title'],
-          slides: project['slides']
+          project_client: project['client'],
+          project_agency: project['agency'],
+          project_url: project['url'],
+          project_pretty_url: project['pretty_url'],
+          project_role: project['role'],
+          project_description: project['description'],
         },
         :ignore => true
 end
@@ -115,6 +105,8 @@ set :images_dir, 'images'
 activate :livereload
 
 # activate :directory_indexes
+
+# activate :asset_hash
 
 # Build-specific configuration
 configure :build do

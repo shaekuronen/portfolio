@@ -1,12 +1,13 @@
 [
   {
-    "project_title": "DoubleDown Site",
-    "url_title": "doubledown",
-    "client": "",
-    "agency": "",
-    "url": "",
-    "role": "",
-    "description": "",
+    "project_title": "Denizen Site",
+    "url_title": "denizen",
+    "client": "Denizen",
+    "agency": "206inc",
+    "url": "http://www.denizen.com/",
+    "pretty_url": "denizen.com",
+    "role": "Developer",
+    "description": "Responsible for responsive design and development, cross-browser + device testing, and deploying site to client's hosting platform.",
     "slides": [
       {
       "small": "http://placehold.it/360x300",
@@ -21,6 +22,31 @@
       "xlarge": "http://placehold.it/900x400"
       }
     ],
-    "thumbnail": ""
+    "thumbnail": "/images/projects/doubledown/360x270.jpg"
+  },
+  {
+    "project_title": "DoubleDown Site",
+    "url_title": "doubledown",
+    "client": "DoubleDown Interactive",
+    "agency": "206inc",
+    "url": "http://www.doubledowninteractive.com/",
+    "pretty_url": "doubledowninteractive.com",
+    "role": "Lead Developer",
+    "description": "Responsible for defining project architecture, implementing technical specifications, building the site, and deploying to the client's hosting platform.",
+    "slides": [
+      {
+      "small": "http://placehold.it/360x300",
+      "medium": "http://placehold.it/540x305",
+      "large": "http://placehold.it/720x405",
+      "xlarge": "http://placehold.it/900x506"
+      },
+      {
+      "small": "http://placehold.it/360x400",
+      "medium": "http://placehold.it/540x400",
+      "large": "http://placehold.it/720x400",
+      "xlarge": "http://placehold.it/900x400"
+      }
+    ],
+    "thumbnail": "/images/projects/doubledown/360x270.jpg"
   }
 ]

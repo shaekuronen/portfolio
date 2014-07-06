@@ -4,4 +4,10 @@ title: Shae Kuronen
 
 = partial('partials/header')
 
-= partial('partials/grid')
+.row.collapse
+
+  - data.projects.each do |project|
+
+    .xsmall-12.small-6.medium-6.large-4.xlarge-3.columns
+      %a{:href => "projects/#{project[:url_title]}"}
+        %img{:src => "#{project[:thumbnail]}"}/

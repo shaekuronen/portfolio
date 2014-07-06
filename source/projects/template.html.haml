@@ -28,27 +28,32 @@ title: Shae Kuronen
       .xsmall-12.small-12.medium-12.large-4.xlarge-12.columns
         %dl
 
-          %dt Project
-          %dd= project_title
+          - if project_title.length > 0
+            %dt Project
+            %dd= project_title
 
+          - if project_client.length > 0
+            %dt Client
+            %dd= project_client
 
-          %dt Client
-          %dd DoubleDown Interactive
+          - if project_agency.length > 0
+            %dt Agency
+            %dd= project_agency
 
-          %dt Agency
-          %dd 206inc
-
-          %dt URL
-          %dd
-            %a{href: 'http://www.doubledowninteractive.com/', target: '_blank'} doubledowninteractive.com
+          - if (project_url.length > 0) && (project_pretty_url.length > 0)
+            %dt URL
+            %dd
+              %a{href: '#{project_url}', target: '_blank'} #{project_pretty_url}
 
       .xsmall-12.small-12.medium-12.large-8.xlarge-12.columns
         %dl
 
-          %dt Role
-          %dd Lead Developer
+          - if project_role.length > 0
+            %dt Role
+            %dd= project_role
 
-          %dt Description
-          %dd Responsible for defining project architecture, implementing technical specifications, building the site, and deploying to the client's hosting platform.
+          - if project_description.length > 0
+            %dt Description
+            %dd= project_description
 
 
