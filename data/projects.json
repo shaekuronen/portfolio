@@ -255,7 +255,7 @@
     "url": "",
     "pretty_url": "",
     "role": "Developer",
-    "description": "Buddy Media needed to make a deadline for launching their new site.  We took over several sections of the site and were able to execute in a short time period.  I was responsible for HTML & CSS.",
+    "description": "Buddy Media needed to make a deadline for launching their new site.  We took over several sections of the site and were able to execute in a short time period.  I was responsible for the HTML & CSS.",
     "slides": [
       {
       "small": "http://placehold.it/360x202",
@@ -286,25 +286,25 @@
     "url": "",
     "pretty_url": "",
     "role": "Developer",
-    "description": "The Kate Spade Facebook app was an animated timeline that revealed exclusive content to Facebook fans.  I was responsible for HTML & CSS.",
+    "description": "The Kate Spade Facebook app was an animated slideshow that revealed exclusive content to Neiman Marcus Facebook fans.  I was responsible for the HTML & CSS.",
     "slides": [
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/kate_spade/900x506/01.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/kate_spade/900x506/02.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/kate_spade/900x506/03.jpg"
       }
     ],
     "thumbnail": "/images/projects/kate_spade/360x270.jpg"
@@ -317,25 +317,25 @@
     "url": "http://blog.americanamanhasset.com/",
     "pretty_url": "blog.americanamanhasset.com/",
     "role": "Developer",
-    "description": "This project was a custom Tumblr theme for the re-launch of the Americana Manhasset blog.  I was responsible for HTML & CSS.",
+    "description": "This project was a custom Tumblr theme for the re-launch of the Americana Manhasset blog.  I was responsible for the HTML & CSS.",
     "slides": [
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/americana_manhasset/900x506/01.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/americana_manhasset/900x506/02.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/americana_manhasset/900x506/03.jpg"
       }
     ],
     "thumbnail": "/images/projects/americana_manhasset/360x270.jpg"
@@ -348,7 +348,7 @@
     "url": "http://tumblr.neimanmarcus.com/",
     "pretty_url": "tumblr.neimanmarcus.com",
     "role": "Developer",
-    "description": "This project was a custom Tumblr theme for the refresh of the Neiman Marcus blog.  I was responsible for HTML & CSS.",
+    "description": "This project was a custom Tumblr theme for the refresh of the Neiman Marcus blog.  I was responsible for the HTML & CSS.",
     "slides": [
       {
       "small": "http://placehold.it/360x202",
