@@ -69,7 +69,7 @@
     "url": "http://www.toyota.com/rav4ev/tour/",
     "pretty_url": "toyota.com/rav4ev/tour",
     "role": "Developer",
-    "description": "Wrote custom jQuery and CSS3 animations and hover effects.",
+    "description": "206inc developed a tour site for the Rav4 EV launch.  I wrote custom jQuery + CSS3 animations and hover effects.",
     "slides": [
       {
       "small": "http://placehold.it/360x202",
@@ -354,19 +354,19 @@
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/neiman_marcus/900x506/01.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/neiman_marcus/900x506/02.jpg"
       },
       {
       "small": "http://placehold.it/360x202",
       "medium": "http://placehold.it/540x304",
       "large": "http://placehold.it/720x405",
-      "xlarge": "http://placehold.it/900x506"
+      "xlarge": "/images/projects/neiman_marcus/900x506/03.jpg"
       }
     ],
     "thumbnail": "/images/projects/neiman_marcus/360x270.jpg"
