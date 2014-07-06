@@ -1,9 +1,10 @@
-{
-  "doubledown": {
-    "title": "",
+  {
+    "project_title": "",
+    "url_title": "",
     "client": "",
     "agency": "",
     "url": "",
+    "pretty_url": "",
     "role": "",
     "description": "",
     "slides": {
@@ -14,4 +15,3 @@
     },
     "thumbnail": ""
   }
-}
