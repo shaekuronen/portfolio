@@ -18,7 +18,7 @@ module.exports = function(grunt) {
     responsive_images: {
       resize_images: {
         options: {
-          quality: 60,
+          quality: 100,
           sizes: [
             {
               width: 360,
@@ -36,8 +36,8 @@ module.exports = function(grunt) {
         },
         files: [{
           expand: true,
-          src: ['source/images/projects/206inc/900x506/*.jpg'],
-          custom_dest: 'source/images/projects/206inc/{%= width %}/'
+          src: ['source/images/projects/toyota_rav4_ev/900x506/*.jpg'],
+          custom_dest: 'source/images/projects/toyota_rav4_ev/{%= width %}x{%= height %}/'
         }]
       }
     },
