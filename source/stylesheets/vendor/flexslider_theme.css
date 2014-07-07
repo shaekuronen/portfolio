@@ -11,7 +11,9 @@ ol li {
 
 .flexslider {
   margin: 0;
-  background: #fff;
+  background-color: #fff;
+  height: 0;
+  padding-bottom: 56.25%;
   border: 0;
   position: relative;
   -webkit-border-radius: 0;
