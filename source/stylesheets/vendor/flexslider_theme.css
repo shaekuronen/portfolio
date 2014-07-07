@@ -63,11 +63,11 @@ ol li {
   border-radius: 25px;
 }
 [class*="-direction-nav"] [class*="-prev"] {
-  opacity: .15;
+  opacity: 0;
   left: 10px;
 }
 [class*="-direction-nav"] [class*="-next"] {
-  opacity: .15;
+  opacity: 0;
   right: 10px;
   text-align: right;
 }
