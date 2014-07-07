@@ -10,21 +10,21 @@
     "description": "Responsible for responsive design and development, cross-browser + device testing, and deploying site to client's hosting platform.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/denizen/360x202/01.jpg",
+      "medium": "/images/projects/denizen/540x304/01.jpg",
+      "large": "/images/projects/denizen/720x405/01.jpg",
       "xlarge": "/images/projects/denizen/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/denizen/360x202/02.jpg",
+      "medium": "/images/projects/denizen/540x304/02.jpg",
+      "large": "/images/projects/denizen/720x405/02.jpg",
       "xlarge": "/images/projects/denizen/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/denizen/360x202/03.jpg",
+      "medium": "/images/projects/denizen/540x304/03.jpg",
+      "large": "/images/projects/denizen/720x405/03.jpg",
       "xlarge": "/images/projects/denizen/900x506/03.jpg"
       }
     ],
@@ -41,21 +41,21 @@
     "description": "Responsible for project architecture, responsive design + development, mobile performance, cross-browser + cross-device testing, and deployment.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/206inc/360x202/01.jpg",
+      "medium": "/images/projects/206inc/540x304/01.jpg",
+      "large": "/images/projects/206inc/720x405/01.jpg",
       "xlarge": "/images/projects/206inc/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/206inc/360x202/02.jpg",
+      "medium": "/images/projects/206inc/540x304/02.jpg",
+      "large": "/images/projects/206inc/720x405/02.jpg",
       "xlarge": "/images/projects/206inc/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/206inc/360x202/03.jpg",
+      "medium": "/images/projects/206inc/540x304/03.jpg",
+      "large": "/images/projects/206inc/720x405/03.jpg",
       "xlarge": "/images/projects/206inc/900x506/03.jpg"
       }
     ],
@@ -72,21 +72,21 @@
     "description": "206inc developed a tour site for the Rav4 EV launch.  I wrote custom jQuery + CSS3 animations and hover effects.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/toyota_rav4_ev/360x202/01.jpg",
+      "medium": "/images/projects/toyota_rav4_ev/540x304/01.jpg",
+      "large": "/images/projects/toyota_rav4_ev/720x405/01.jpg",
       "xlarge": "/images/projects/toyota_rav4_ev/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/toyota_rav4_ev/360x202/02.jpg",
+      "medium": "/images/projects/toyota_rav4_ev/540x304/02.jpg",
+      "large": "/images/projects/toyota_rav4_ev/720x405/02.jpg",
       "xlarge": "/images/projects/toyota_rav4_ev/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/toyota_rav4_ev/360x202/03.jpg",
+      "medium": "/images/projects/toyota_rav4_ev/540x304/03.jpg",
+      "large": "/images/projects/toyota_rav4_ev/720x405/03.jpg",
       "xlarge": "/images/projects/toyota_rav4_ev/900x506/03.jpg"
       }
     ],
@@ -103,21 +103,21 @@
     "description": "Responsible for defining project architecture, implementing technical specifications, building the site, and deploying to the client's hosting platform.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/doubledown/360x202/01.jpg",
+      "medium": "/images/projects/doubledown/540x304/01.jpg",
+      "large": "/images/projects/doubledown/720x405/01.jpg",
       "xlarge": "/images/projects/doubledown/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/doubledown/360x202/02.jpg",
+      "medium": "/images/projects/doubledown/540x304/02.jpg",
+      "large": "/images/projects/doubledown/720x405/02.jpg",
       "xlarge": "/images/projects/doubledown/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/doubledown/360x202/03.jpg",
+      "medium": "/images/projects/doubledown/540x304/03.jpg",
+      "large": "/images/projects/doubledown/720x405/03.jpg",
       "xlarge": "/images/projects/doubledown/900x506/03.jpg"
       }
     ],
@@ -134,21 +134,21 @@
     "description": "206inc built a promo site for the Kindle Fire + Marvel partnership.  I was responsible for all development including architecture, responsive design, mobile optimization, and deployment to AWS EC2 and S3.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kindle_marvel/360x202/01.jpg",
+      "medium": "/images/projects/kindle_marvel/540x304/01.jpg",
+      "large": "/images/projects/kindle_marvel/720x405/01.jpg",
       "xlarge": "/images/projects/kindle_marvel/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kindle_marvel/360x202/02.jpg",
+      "medium": "/images/projects/kindle_marvel/540x304/02.jpg",
+      "large": "/images/projects/kindle_marvel/720x405/02.jpg",
       "xlarge": "/images/projects/kindle_marvel/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kindle_marvel/360x202/03.jpg",
+      "medium": "/images/projects/kindle_marvel/540x304/03.jpg",
+      "large": "/images/projects/kindle_marvel/720x405/03.jpg",
       "xlarge": "/images/projects/kindle_marvel/900x506/03.jpg"
       }
     ],
@@ -165,27 +165,27 @@
     "description": "206inc designed and developed a refresh of the Coca-Cola Unbottled blog.  I was responsible for responsive design and development.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/coca_cola_unbottled/360x202/01.jpg",
+      "medium": "/images/projects/coca_cola_unbottled/540x304/01.jpg",
+      "large": "/images/projects/coca_cola_unbottled/720x405/01.jpg",
       "xlarge": "/images/projects/coca_cola_unbottled/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/coca_cola_unbottled/360x202/02.jpg",
+      "medium": "/images/projects/coca_cola_unbottled/540x304/02.jpg",
+      "large": "/images/projects/coca_cola_unbottled/720x405/02.jpg",
       "xlarge": "/images/projects/coca_cola_unbottled/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/coca_cola_unbottled/360x202/03.jpg",
+      "medium": "/images/projects/coca_cola_unbottled/540x304/03.jpg",
+      "large": "/images/projects/coca_cola_unbottled/720x405/03.jpg",
       "xlarge": "/images/projects/coca_cola_unbottled/900x506/03.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/coca_cola_unbottled/360x202/04.jpg",
+      "medium": "/images/projects/coca_cola_unbottled/540x304/04.jpg",
+      "large": "/images/projects/coca_cola_unbottled/720x405/04.jpg",
       "xlarge": "/images/projects/coca_cola_unbottled/900x506/04.jpg"
       }
     ],
@@ -202,21 +202,21 @@
     "description": "This project was a holiday giveaway app that lived on the Alexander Wang Facebook page.  I was reponsible for HTML/CSS, client-side form validation, image optimization, and deployment.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/alexander_wang/360x202/01.jpg",
+      "medium": "/images/projects/alexander_wang/540x304/01.jpg",
+      "large": "/images/projects/alexander_wang/720x405/01.jpg",
       "xlarge": "/images/projects/alexander_wang/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/alexander_wang/360x202/02.jpg",
+      "medium": "/images/projects/alexander_wang/540x304/02.jpg",
+      "large": "/images/projects/alexander_wang/720x405/02.jpg",
       "xlarge": "/images/projects/alexander_wang/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/alexander_wang/360x202/03.jpg",
+      "medium": "/images/projects/alexander_wang/540x304/03.jpg",
+      "large": "/images/projects/alexander_wang/720x405/03.jpg",
       "xlarge": "/images/projects/alexander_wang/900x506/03.jpg"
       }
     ],
@@ -233,21 +233,21 @@
     "description": "This project was a holiday giveaway app that lived on the Jack Spade Facebook page.  I was reponsible for HTML/CSS, client-side form validation, image optimization, and deployment.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/jack_spade/360x202/01.jpg",
+      "medium": "/images/projects/jack_spade/540x304/01.jpg",
+      "large": "/images/projects/jack_spade/720x405/01.jpg",
       "xlarge": "/images/projects/jack_spade/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/jack_spade/360x202/02.jpg",
+      "medium": "/images/projects/jack_spade/540x304/02.jpg",
+      "large": "/images/projects/jack_spade/720x405/02.jpg",
       "xlarge": "/images/projects/jack_spade/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/jack_spade/360x202/03.jpg",
+      "medium": "/images/projects/jack_spade/540x304/03.jpg",
+      "large": "/images/projects/jack_spade/720x405/03.jpg",
       "xlarge": "/images/projects/jack_spade/900x506/03.jpg"
       }
     ],
@@ -264,21 +264,21 @@
     "description": "Buddy Media needed to make a deadline for launching their new site.  We took over several sections of the site and were able to execute in a short time period.  I was responsible for the HTML & CSS.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/buddy_media/360x202/01.jpg",
+      "medium": "/images/projects/buddy_media/540x304/01.jpg",
+      "large": "/images/projects/buddy_media/720x405/01.jpg",
       "xlarge": "/images/projects/buddy_media/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/buddy_media/360x202/02.jpg",
+      "medium": "/images/projects/buddy_media/540x304/02.jpg",
+      "large": "/images/projects/buddy_media/720x405/02.jpg",
       "xlarge": "/images/projects/buddy_media/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/buddy_media/360x202/03.jpg",
+      "medium": "/images/projects/buddy_media/540x304/03.jpg",
+      "large": "/images/projects/buddy_media/720x405/03.jpg",
       "xlarge": "/images/projects/buddy_media/900x506/03.jpg"
       }
     ],
@@ -295,21 +295,21 @@
     "description": "The Kate Spade Facebook app was an animated slideshow that revealed exclusive content to Neiman Marcus Facebook fans.  I was responsible for the HTML & CSS.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kate_spade/360x202/01.jpg",
+      "medium": "/images/projects/kate_spade/540x304/01.jpg",
+      "large": "/images/projects/kate_spade/720x405/01.jpg",
       "xlarge": "/images/projects/kate_spade/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kate_spade/360x202/02.jpg",
+      "medium": "/images/projects/kate_spade/540x304/02.jpg",
+      "large": "/images/projects/kate_spade/720x405/02.jpg",
       "xlarge": "/images/projects/kate_spade/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/kate_spade/360x202/03.jpg",
+      "medium": "/images/projects/kate_spade/540x304/03.jpg",
+      "large": "/images/projects/kate_spade/720x405/03.jpg",
       "xlarge": "/images/projects/kate_spade/900x506/03.jpg"
       }
     ],
@@ -326,21 +326,21 @@
     "description": "This project was a custom Tumblr theme for the re-launch of the Americana Manhasset blog.  I was responsible for the HTML & CSS.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/americana_manhasset/360x202/01.jpg",
+      "medium": "/images/projects/americana_manhasset/540x304/01.jpg",
+      "large": "/images/projects/americana_manhasset/720x405/01.jpg",
       "xlarge": "/images/projects/americana_manhasset/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/americana_manhasset/360x202/02.jpg",
+      "medium": "/images/projects/americana_manhasset/540x304/02.jpg",
+      "large": "/images/projects/americana_manhasset/720x405/02.jpg",
       "xlarge": "/images/projects/americana_manhasset/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/americana_manhasset/360x202/03.jpg",
+      "medium": "/images/projects/americana_manhasset/540x304/03.jpg",
+      "large": "/images/projects/americana_manhasset/720x405/03.jpg",
       "xlarge": "/images/projects/americana_manhasset/900x506/03.jpg"
       }
     ],
@@ -357,21 +357,21 @@
     "description": "This project was a custom Tumblr theme for the refresh of the Neiman Marcus blog.  I was responsible for the HTML & CSS.",
     "slides": [
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/neiman_marcus/360x202/01.jpg",
+      "medium": "/images/projects/neiman_marcus/540x304/01.jpg",
+      "large": "/images/projects/neiman_marcus/720x405/01.jpg",
       "xlarge": "/images/projects/neiman_marcus/900x506/01.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/neiman_marcus/360x202/02.jpg",
+      "medium": "/images/projects/neiman_marcus/540x304/02.jpg",
+      "large": "/images/projects/neiman_marcus/720x405/02.jpg",
       "xlarge": "/images/projects/neiman_marcus/900x506/02.jpg"
       },
       {
-      "small": "http://placehold.it/360x202",
-      "medium": "http://placehold.it/540x304",
-      "large": "http://placehold.it/720x405",
+      "small": "/images/projects/neiman_marcus/360x202/03.jpg",
+      "medium": "/images/projects/neiman_marcus/540x304/03.jpg",
+      "large": "/images/projects/neiman_marcus/720x405/03.jpg",
       "xlarge": "/images/projects/neiman_marcus/900x506/03.jpg"
       }
     ],
