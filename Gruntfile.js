@@ -15,9 +15,8 @@ module.exports = function(grunt) {
       }
     },
 
-
     responsive_images: {
-      home_slideshow: {
+      resize_images: {
         options: {
           quality: 60,
           sizes: [
@@ -37,8 +36,8 @@ module.exports = function(grunt) {
         },
         files: [{
           expand: true,
-          src: ['./900x506/*.jpg'],
-          custom_dest: './{%= width %}/'
+          src: ['source/images/projects/206inc/900x506/*.jpg'],
+          custom_dest: 'source/images/projects/206inc/{%= width %}/'
         }]
       }
     },
@@ -50,7 +49,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-responsive-images');
 
   // RESIZE IMAGES
-  grunt.registerTask('resize', [
+  grunt.registerTask('resizeImages', [
     'responsive_images'
   ]);
   // END RESIZE IMAGES
