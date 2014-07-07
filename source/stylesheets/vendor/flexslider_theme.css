@@ -45,8 +45,8 @@ ol li {
 [class*="-direction-nav"] a  {
   text-decoration:none;
   display: block;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   margin: -20px 0 0;
   position: absolute;
   top: 50%;
@@ -59,25 +59,27 @@ ol li {
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
+  background-color: #fff;
+  border-radius: 25px;
 }
 [class*="-direction-nav"] [class*="-prev"] {
-  opacity: 0.4;
+  opacity: .15;
   left: 10px;
 }
 [class*="-direction-nav"] [class*="-next"] {
-  opacity: 0.4;
+  opacity: .15;
   right: 10px;
   text-align: right;
 }
 .flexslider:hover [class*="-prev"] {
-  opacity: 0.7;
+  opacity: .3;
 }
 .flexslider:hover [class*="-next"] {
-  opacity: 0.7;
+  opacity: .3;
 }
 .flexslider:hover [class*="-next"]:hover,
 .flexslider:hover [class*="-prev"]:hover {
-  opacity: 1;
+  opacity: .6;
 }
 [class*="-direction-nav"] [class*="-disabled"] {
   opacity: 0 !important;
@@ -90,9 +92,13 @@ ol li {
   display: inline-block;
   content: '\f001';
   line-height: 40px;
+  position: absolute;
+  top: 7px;
+  left: 10px;
 }
 [class*="-direction-nav"] a[class*="-next"]:before  {
   content: '\f002';
+  left: 13px;
 }
 
 /* Pause/Play */
