@@ -10,4 +10,4 @@ title: Shae Kuronen
 
     .xsmall-12.small-6.medium-6.large-4.xlarge-3.columns
       %a{:href => "projects/#{project[:url_title]}"}
-        %img{:src => "#{project[:thumbnail]}"}/
+        %img.lazyload{"src" => "/images/global/1x1.gif", "data-original" => "#{project[:thumbnail]}"}
