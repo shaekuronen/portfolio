@@ -1,3 +1,8 @@
+//= require jquery/dist/jquery
+//= require flexslider/jquery.flexslider
+//= require flexloader/dist/jquery.flexloader
+//= require picturefill/picturefill
+
 ;(function($) {
 
   $('.flexslider').flexslider({
